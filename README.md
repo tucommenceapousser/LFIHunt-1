@@ -9,7 +9,7 @@ Created by: Chocapikk
 To install LFIHunt, start by cloning the repository, then install the required dependencies with pip:
 
 ```bash
-$ git clone https://github.com/Chocapikk/LFIHunt.git
+$ git clone https://github.com/tucommenceapousser/LFIHunt.git
 $ cd LFIHunt/
 $ pip install -r requirements.txt
 ```
